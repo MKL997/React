@@ -8,3 +8,4 @@ npx create-react-app {app_name}
 2. Run the React App
 
 npm run
+nu uh
